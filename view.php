@@ -1,4 +1,14 @@
-<?php require_once ($_SERVER["DOCUMENT_ROOT"]. "/include/head_sub.php"); ?>
+test입니다
+test입니다
+test입니다
+test입니다
+test입니다
+test입니다
+test입니다
+test입니다
+test입니다
+test입니다
+test입니다
 <body>
 <div id="wrap">
 	<div id="header_wrap">
