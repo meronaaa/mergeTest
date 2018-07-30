@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 111
 진수
+=======
+222
+쥔수
+>>>>>>> 222
 <body>
 <div id="wrap">
 	<div id="header_wrap">
